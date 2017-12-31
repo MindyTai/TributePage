@@ -1,0 +1,15 @@
+.jumbotron{
+    margin-top: 30px;
+}
+
+#name{
+    font-size: 90px;
+}
+
+#tag{
+    font-size: 30px;
+}
+
+#caption{
+    font-size: 15px;
+}
