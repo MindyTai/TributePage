@@ -7,7 +7,7 @@ Tribute Page
 - css
 
 - have CodePen version: https://codepen.io/MindyTai/pen/WdjgWK?editors=1100
-
+- See this on Github Page: https://mindytai.github.io/TributePage/
 
 ### Screenshots
 
